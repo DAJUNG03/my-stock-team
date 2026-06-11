@@ -1,0 +1,9 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "주식 리서치 멀티 에이전트 팀 — 펀더멘털(DART)·기술/수급(FDR)·뉴스/심리(웹)·리스크(pykrx) 애널리스트와 검증 게이트, KB 옐로우 톤 PPTX 리포트 스킬을 묶은 플러그인. 학습용 분석 전용(투자 권유 아님).",
+  "author": {
+    "name": "dajung.kim"
+  },
+  "keywords": ["stock", "research", "korea", "dart", "equity", "pptx"]
+}

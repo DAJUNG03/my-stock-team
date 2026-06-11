@@ -1,0 +1,13 @@
+{
+  "name": "my-stock-team-marketplace",
+  "owner": {
+    "name": "dajung.kim"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "description": "주식 리서치 멀티 에이전트 팀 (애널리스트 5종 + 리포트 PPTX 스킬 + 리서치 파이프라인 커맨드)"
+    }
+  ]
+}
